@@ -1,16 +1,12 @@
-# ocr_sederhana
+# Hasil Praktikum OCR Sederhana
 
-A new Flutter project.
+## Loading Screen
+<img width="369" height="779" alt="image" src="https://github.com/user-attachments/assets/80ffc29c-916c-438d-b8f3-96d8724554bc" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Home Screen
+<img width="346" height="738" alt="image" src="https://github.com/user-attachments/assets/dea63379-7790-4c77-a53f-b0de884404ae" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Scan Teks
+<img width="221" height="472" alt="image" src="https://github.com/user-attachments/assets/61d7eb4d-c890-419a-9b7d-87ef4d614071" />
