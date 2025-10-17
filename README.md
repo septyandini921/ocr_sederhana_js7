@@ -9,4 +9,5 @@
 
 
 ## Scan Teks
-<img width="221" height="472" alt="image" src="https://github.com/user-attachments/assets/61d7eb4d-c890-419a-9b7d-87ef4d614071" />
+https://github.com/user-attachments/assets/ca1f513b-9329-45bd-92ab-2a63899bc08d
+
